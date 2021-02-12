@@ -1,0 +1,8 @@
+@media screen and (max-width: 576px) {
+    .contacts__content{
+        flex-wrap: wrap;
+    }
+    .contacts__content{
+        justify-content: space-around;
+    }
+}

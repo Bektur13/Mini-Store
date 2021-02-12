@@ -1,0 +1,36 @@
+@media screen and (max-width: 576px) {
+    .special{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .box__special{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .express{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .offers__title{
+        text-align: center;
+    }
+    .box__car{
+        margin: 0;
+        flex-wrap: wrap;
+    }
+    .box__mail{
+        flex-wrap: wrap;
+    }
+    .box__mail,
+    .box__car{
+        width: 250px;
+        height: 400px;
+    }
+    .mail__dewscription{
+        width: 200px;
+    }
+    .mail__title{
+        width: 200px;
+    }
+}
+ 

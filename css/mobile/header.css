@@ -1,0 +1,14 @@
+@media screen and (max-width: 1024px) {
+    .search__input{
+        display: none;
+    }
+}
+ 
+@media screen and (max-width: 576px) {
+    .box2,
+    .box3,
+    .header__ul,
+    .menu__ul{
+        display: none;
+    }
+}

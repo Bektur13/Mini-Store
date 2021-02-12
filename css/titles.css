@@ -1,0 +1,21 @@
+.foot__description{
+    width: 82px;
+    font-size: 14px;
+    color: #828282;
+}
+.foot__title{
+    max-width: 90px;
+}
+.foot__content{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background: #EFEFEF;
+    border: 1px solid #EFEFEF;
+    margin: 50px 0;
+}

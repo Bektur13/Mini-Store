@@ -1,0 +1,28 @@
+.contacts__content{
+    display: flex;
+    justify-content: space-between;
+}
+.box__contacts{
+    display: flex;
+}
+.contacts__img{
+    margin-top: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 80px;
+    border: 2px solid#F13C6E;
+    background: #ffffff;
+}
+.con__logo{
+    width: 22px;
+    height: 16px;
+}
+.box3{
+    margin-top: -2px;  
+}
+.number{
+    margin-right: 50px;
+}
+.contacts_foot{
+    margin-top: 0;  
+}

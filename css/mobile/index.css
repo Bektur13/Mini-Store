@@ -1,0 +1,15 @@
+@import "./header.css";
+@import "./hero.css";
+@import "./menu.css";
+@import "./offer.css";
+@import "./titles.css";
+@import "./chair.css";
+@import "./contacts.css";
+@import "./footer.css";
+
+
+@media screen and (max-width: 576px) {
+    .container{
+        padding: 0 20px;
+    }
+}

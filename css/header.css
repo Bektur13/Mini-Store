@@ -1,0 +1,17 @@
+header{
+    background: #E5E5E5;
+}
+.header__ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 16px 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin: 0;
+
+}
+.header__li{
+    margin-right: 30px;
+    font-size: 14px;
+}

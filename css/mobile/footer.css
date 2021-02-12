@@ -1,0 +1,8 @@
+@media screen and (max-width: 576px) {
+    .footer__content{
+        flex-wrap: wrap;
+    }
+    .polotocs{
+        margin-bottom: 20px;
+    }
+}
